@@ -1,0 +1,19 @@
+{
+  "name": "@easylib/core",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.0.6",
+    "@angular/core": "^11.0.6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/easylib-core.umd.js",
+  "module": "fesm2015/easylib-core.js",
+  "es2015": "fesm2015/easylib-core.js",
+  "esm2015": "esm2015/easylib-core.js",
+  "fesm2015": "fesm2015/easylib-core.js",
+  "typings": "easylib-core.d.ts",
+  "metadata": "easylib-core.metadata.json",
+  "sideEffects": false
+}
