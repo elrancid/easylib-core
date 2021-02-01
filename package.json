@@ -1,9 +1,10 @@
 {
   "name": "@easylib/core",
-  "version": "0.0.1",
+  "version": "11.0.0",
   "peerDependencies": {
-    "@angular/common": "^11.0.6",
-    "@angular/core": "^11.0.6"
+    "@angular/common": "^11.x",
+    "@angular/core": "^11.x",
+    "@angular/forms": "^11.x"
   },
   "dependencies": {
     "tslib": "^2.0.0"
