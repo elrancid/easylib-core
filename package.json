@@ -7,7 +7,8 @@
     "@angular/forms": "~11.0.5"
   },
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.0.0",
+    "@angular/forms": "~11.0.5"
   },
   "main": "bundles/easylib-core.umd.js",
   "module": "fesm2015/easylib-core.js",
